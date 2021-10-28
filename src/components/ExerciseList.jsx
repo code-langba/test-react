@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ExerciseList = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+  return <div>hello from edit exercise list</div>;
+};
 
-export default ExerciseList
+export default ExerciseList;

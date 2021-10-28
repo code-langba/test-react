@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const CreateUser = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+  return <div>hello from create user</div>;
+};
 
-export default CreateUser
+export default CreateUser;

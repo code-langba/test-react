@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const EditExercise = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+  return <div>hello from edit exercise</div>;
+};
 
-export default EditExercise
+export default EditExercise;
